@@ -1,4 +1,4 @@
-# AI-Based Botnet Detection Using Hybrid Deep Learning Models
+# BotSense — AI-Based Botnet Detection Using Hybrid Deep Learning Models
 
 > **Group 07 · CPCS498 / CPCS499 · King Abdulaziz University**
 > Hybrid two-stage detection of botnet activity in IoT and non-IoT network traffic,
