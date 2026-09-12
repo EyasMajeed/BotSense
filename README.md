@@ -14,6 +14,31 @@ just *that* it was.
 
 ---
 
+## Screenshots
+
+The desktop SOC dashboard (PyQt6, six pages) analysing a sample session:
+
+| Dashboard | Upload & Analyze |
+| --- | --- |
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Upload & Analyze](docs/screenshots/upload.png) |
+
+| Results — detection + XAI explanation | Live traffic monitor |
+| --- | --- |
+| ![Results with XAI explanation](docs/screenshots/results-xai.png) | ![Live monitoring](docs/screenshots/monitoring.png) |
+
+Every session can be exported as an analyst PDF report — cover page with the
+detection summary and the aggregated top features, then one block per botnet
+flow with its attributions and a recommended action:
+
+| Exported PDF report |
+| --- |
+| ![PDF report cover page](docs/screenshots/report-pdf.png) |
+
+Also available: [report history](docs/screenshots/reports.png) and the
+[per-flow XAI detail pages](docs/screenshots/report-pdf-xai.png) of the PDF.
+
+---
+
 ## Table of Contents
 
 1. [Why this project](#why-this-project)
