@@ -523,15 +523,15 @@ See `test_harness/README.md` for the per-test contract and CI recipe.
 ## Team
 
 | Name | Student ID | Role |
-|---|---|---|
-| Eyas Majeed | 2236567 | — |
-| Omar Alsiary | 2236983 | — |
-| Zeyad Alghamdi | 2237000 | — |
+| ---- | ---------- | ---- |
+| Eyas Majeed | 2236567 | Explainable AI module · PyQt6 SOC dashboard |
+| Omar Alsiary | 2236983 | Data pipeline & model development |
+| Zeyad Alghamdi | 2237000 | Data pipeline & model development |
 
 **Supervisor:** Dr. Abdulaziz Alnori
 
-Course: **CPCS498 — Graduation Project I** (System Design, completed),
-**CPCS499 — Graduation Project II** (Implementation, in progress).
+Course: **CPCS498 — Graduation Project I** (System Design) and
+**CPCS499 — Graduation Project II** (Implementation), both completed.
 
 Faculty of Computing and Information Technology, King Abdulaziz University.
 
