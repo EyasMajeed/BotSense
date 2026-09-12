@@ -548,7 +548,7 @@ Third-party libraries retain their original licenses (see
 
 When citing this work, please reference the final report:
 
-> Majeed, E., Alsiary, O., Alghamdi, Z. (2026). *Hybrid AI-Based Botnet
-> Detection Using Two-Stage CNN-LSTM Models with Explainable AI.* Graduation
+> Majeed, E., Alsiary, O., Alghamdi, Z. (2026). BotSense: Hybrid AI-Based Botnet
+> Detection Using Two-Stage CNN-LSTM Models with Explainable AI. Graduation
 > Project, Faculty of Computing and Information Technology, King Abdulaziz
 > University.
